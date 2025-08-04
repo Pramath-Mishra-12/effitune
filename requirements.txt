@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision
+timm
+scipy
+numpy
+tqdm
+pyyaml
+optuna
+Pillow
+tensorflow>=2.10
+tensorflow-datasets
